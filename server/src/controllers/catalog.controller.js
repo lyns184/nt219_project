@@ -1,5 +1,8 @@
+const catalogService = require('../services/catalog.service');
 class CatalogController {
-	getAllCatatlog(req, res) {}
+	getAllCatatlog(req, res) {
+		return catalogService.getAllCatatlog().then((data) => res.json(data));
+	}
 }
 
-module.exports = CatalogController;
+module.exports = new CatalogController();

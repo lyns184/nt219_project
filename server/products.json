@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Plus Drone #001",
+    "stock": 70,
+    "price": 933.69,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 001.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Basic Coffee Table #002",
+    "stock": 13,
+    "price": 820.28,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 002.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Ultra Dash Cam #003",
+    "stock": 75,
+    "price": 1330.26,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 003.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Ultra Bed Frame #004",
+    "stock": 51,
+    "price": 838.27,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 004.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Ultra USB-C Hub #005",
+    "stock": 30,
+    "price": 610.7,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 005.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Ultra Dresser #006",
+    "stock": 51,
+    "price": 1079.11,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 006.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Plus Smartwatch #007",
+    "stock": 21,
+    "price": 332.8,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 007.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Pro Bar Stool #008",
+    "stock": 31,
+    "price": 761.38,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 008.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Lite Gaming Mouse #009",
+    "stock": 45,
+    "price": 719.93,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 009.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Max TV Stand #010",
+    "stock": 51,
+    "price": 133.7,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 010.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Basic Portable SSD #011",
+    "stock": 51,
+    "price": 723.38,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 011.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Lite Nightstand #012",
+    "stock": 44,
+    "price": 355.49,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 012.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Basic Mechanical Keyboard #013",
+    "stock": 33,
+    "price": 824.71,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 013.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Modern Office Chair #014",
+    "stock": 20,
+    "price": 606.78,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 014.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Compact Bluetooth Speaker #015",
+    "stock": 59,
+    "price": 133.98,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 015.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Plus Computer Desk #016",
+    "stock": 57,
+    "price": 310.82,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 016.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Eco Mechanical Keyboard #017",
+    "stock": 32,
+    "price": 1019.41,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 017.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Eco Bean Bag #018",
+    "stock": 27,
+    "price": 249.01,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 018.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Ultra Wi-Fi Router #019",
+    "stock": 66,
+    "price": 626.98,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 019.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Lite Bar Stool #020",
+    "stock": 41,
+    "price": 539.98,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 020.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Max Mechanical Keyboard #021",
+    "stock": 21,
+    "price": 1157.17,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 021.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Lite TV Stand #022",
+    "stock": 30,
+    "price": 561.47,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 022.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Compact Gaming Mouse #023",
+    "stock": 92,
+    "price": 1478.03,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 023.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Basic Bar Stool #024",
+    "stock": 29,
+    "price": 919.17,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 024.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Prime Portable SSD #025",
+    "stock": 17,
+    "price": 79.72,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 025.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Modern Recliner #026",
+    "stock": 3,
+    "price": 554.51,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 026.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Eco Fast Charger #027",
+    "stock": 98,
+    "price": 311.77,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 027.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Studio Sofa #028",
+    "stock": 57,
+    "price": 587.31,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 028.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Plus Portable SSD #029",
+    "stock": 101,
+    "price": 148.31,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 029.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Classic Shoe Rack #030",
+    "stock": 25,
+    "price": 772.48,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 030.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Max Dash Cam #031",
+    "stock": 67,
+    "price": 1450.61,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 031.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Max Nightstand #032",
+    "stock": 58,
+    "price": 1183.31,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 032.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Max Wi-Fi Router #033",
+    "stock": 27,
+    "price": 1345.56,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 033.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Ultra Bookshelf #034",
+    "stock": 47,
+    "price": 477.38,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 034.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Ultra Action Camera #035",
+    "stock": 36,
+    "price": 290.42,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 035.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Pro Dresser #036",
+    "stock": 45,
+    "price": 449.16,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 036.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Smart Gaming Laptop #037",
+    "stock": 5,
+    "price": 663.65,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 037.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Smart TV Stand #038",
+    "stock": 8,
+    "price": 216.32,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 038.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Plus Portable SSD #039",
+    "stock": 48,
+    "price": 971.08,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 039.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Classic Bean Bag #040",
+    "stock": 27,
+    "price": 657.38,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 040.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Max Bluetooth Speaker #041",
+    "stock": 17,
+    "price": 1106.97,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 041.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Compact Dresser #042",
+    "stock": 24,
+    "price": 1127.19,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 042.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Eco Gaming Laptop #043",
+    "stock": 89,
+    "price": 379.24,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 043.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Eco Computer Desk #044",
+    "stock": 16,
+    "price": 1148,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 044.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Compact VR Headset #045",
+    "stock": 50,
+    "price": 244.1,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 045.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Basic Console Table #046",
+    "stock": 46,
+    "price": 1054.6,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 046.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Eco Noise-Canceling Headphones #047",
+    "stock": 86,
+    "price": 1141.32,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 047.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Prime Corner Shelf #048",
+    "stock": 2,
+    "price": 1096.89,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 048.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Max Graphics Tablet #049",
+    "stock": 44,
+    "price": 677.2,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 049.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Modern Computer Desk #050",
+    "stock": 55,
+    "price": 694.33,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 050.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Classic Wireless Earbuds #051",
+    "stock": 7,
+    "price": 189.22,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 051.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Eco Corner Shelf #052",
+    "stock": 34,
+    "price": 970.52,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 052.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Basic Drone #053",
+    "stock": 40,
+    "price": 230.01,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 053.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Classic Sofa #054",
+    "stock": 19,
+    "price": 202.77,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 054.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Classic VR Headset #055",
+    "stock": 13,
+    "price": 184.19,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 055.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Plus TV Stand #056",
+    "stock": 57,
+    "price": 419.12,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 056.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Plus Drone #057",
+    "stock": 22,
+    "price": 1182.54,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 057.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Studio Dining Table #058",
+    "stock": 33,
+    "price": 415.78,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 058.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Smart Portable SSD #059",
+    "stock": 66,
+    "price": 969.15,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 059.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Compact Bed Frame #060",
+    "stock": 59,
+    "price": 882.84,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 060.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Max Action Camera #061",
+    "stock": 105,
+    "price": 1444.04,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 061.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Lite Bed Frame #062",
+    "stock": 41,
+    "price": 1120.9,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 062.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Pro Graphics Tablet #063",
+    "stock": 92,
+    "price": 585.95,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 063.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Compact Sofa #064",
+    "stock": 35,
+    "price": 667.88,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 064.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Eco Fast Charger #065",
+    "stock": 41,
+    "price": 1134.49,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 065.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Max Dining Table #066",
+    "stock": 33,
+    "price": 965.54,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 066.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Ultra Action Camera #067",
+    "stock": 34,
+    "price": 403.71,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 067.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Studio Console Table #068",
+    "stock": 10,
+    "price": 1172.49,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 068.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Classic Gaming Mouse #069",
+    "stock": 95,
+    "price": 1458.69,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 069.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Plus Nightstand #070",
+    "stock": 38,
+    "price": 451.24,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 070.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Compact Wireless Earbuds #071",
+    "stock": 30,
+    "price": 1143.29,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 071.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Compact Bean Bag #072",
+    "stock": 55,
+    "price": 876.08,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 072.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Prime Microphone #073",
+    "stock": 98,
+    "price": 1275.33,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 073.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Ultra Dining Table #074",
+    "stock": 14,
+    "price": 830.54,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 074.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Lite Graphics Tablet #075",
+    "stock": 113,
+    "price": 955.75,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 075.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Modern Sofa #076",
+    "stock": 53,
+    "price": 519.49,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 076.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Classic USB-C Hub #077",
+    "stock": 64,
+    "price": 1229.71,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 077.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Basic Console Table #078",
+    "stock": 26,
+    "price": 896.1,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 078.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Eco Graphics Tablet #079",
+    "stock": 50,
+    "price": 959.51,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 079.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Compact Console Table #080",
+    "stock": 4,
+    "price": 1144.08,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 080.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Ultra VR Headset #081",
+    "stock": 105,
+    "price": 622.55,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 081.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Max Sofa #082",
+    "stock": 50,
+    "price": 564.18,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 082.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Pro Noise-Canceling Headphones #083",
+    "stock": 28,
+    "price": 1356.89,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 083.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Compact Bed Frame #084",
+    "stock": 27,
+    "price": 790.15,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 084.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Pro Dash Cam #085",
+    "stock": 15,
+    "price": 1356.46,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 085.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Modern Office Chair #086",
+    "stock": 7,
+    "price": 139.62,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 086.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Plus Mechanical Keyboard #087",
+    "stock": 51,
+    "price": 709.64,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 087.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Smart Bar Stool #088",
+    "stock": 9,
+    "price": 1117.9,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 088.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Eco Noise-Canceling Headphones #089",
+    "stock": 75,
+    "price": 755.99,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 089.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Modern TV Stand #090",
+    "stock": 20,
+    "price": 452.52,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 090.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Max Graphics Tablet #091",
+    "stock": 85,
+    "price": 684.46,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 091.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Lite Computer Desk #092",
+    "stock": 36,
+    "price": 170.79,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 092.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Eco Wi-Fi Router #093",
+    "stock": 59,
+    "price": 801.29,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 093.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Prime Bar Stool #094",
+    "stock": 43,
+    "price": 234.57,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 094.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Smart Fast Charger #095",
+    "stock": 102,
+    "price": 602.95,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 095.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Plus Corner Shelf #096",
+    "stock": 60,
+    "price": 214.62,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 096.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Ultra Wi-Fi Router #097",
+    "stock": 10,
+    "price": 819.82,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 097.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Prime Recliner #098",
+    "stock": 28,
+    "price": 941.58,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 098.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  },
+  {
+    "name": "Plus Gaming Mouse #099",
+    "stock": 118,
+    "price": 584.17,
+    "description": "Category: Electronics. Includes basic accessories. 12-month warranty. Batch 099.",
+    "type": "6715f0aa1c2a4b5c6d7e8e01"
+  },
+  {
+    "name": "Modern Bookshelf #100",
+    "stock": 20,
+    "price": 600.18,
+    "description": "Category: Furniture. Easy assembly with included tools. 12-month warranty. Batch 100.",
+    "type": "6715f0aa1c2a4b5c6d7e8e02"
+  }
+]

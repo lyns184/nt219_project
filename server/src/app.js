@@ -25,6 +25,12 @@ app.use(cookiePaser());
 const authRouter = require('./routes/auth.route');
 app.use('/auth', authRouter);
 
+const catalogV1Router = require('./routes/catalog/v1');
+app.use('/catalog/v1', catalogV1Router);
+
+const productV1Router = require('./routes/product/v1');
+app.use('/product/v1', productV1Router);
+
 // 404, Error handler
 app.use((req, res, next) => {
 	res.status(404).send('NOT FOUND');
