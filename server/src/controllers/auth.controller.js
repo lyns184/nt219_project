@@ -1,4 +1,4 @@
-class ApiController {
+class AuthController {
 	getStatus(req, res) {
 		res.send('OK');
 	}
@@ -19,4 +19,4 @@ class ApiController {
 	}
 }
 
-module.exports = new ApiController();
+module.exports = new AuthController();
